@@ -16,8 +16,8 @@ A chat bot that listens for music links in chats and converts them to Apple Musi
 Settings are configured via environment variables, for convenience they are stored in the untracked `secrets.env` file:
 
 ```dotenv
-FB_EMAIL=boym59306@example.com
-FB_PASS=.a.a.a.d123
+FB_EMAIL=03149343231
+FB_PASS=.a.a.a.a.d123
 ```
 
 
